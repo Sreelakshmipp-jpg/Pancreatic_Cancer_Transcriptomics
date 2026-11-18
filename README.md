@@ -111,3 +111,7 @@ Idichi T, Seki N, Kurahara H, Yonemori K et al. Regulation of actin-binding prot
 
 ### Gene Expression Heatmap
 ![Top 50 Genes](figures/heatmap_top50.png)
+
+## Project Workflow
+
+[View the complete analysis workflow](docs/workflow.md)
