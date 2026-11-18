@@ -92,7 +92,22 @@ Notes:
 - **No independent validation.** Results come from a single dataset. Validation in another cohort (for example another GEO pancreatic dataset or TCGA-PAAD) would strengthen them.
 
 ## Data source
-
 	
 Badea L, Herlea V, Dima SO, Dumitrascu T et al. Combined gene expression analysis of whole-tissue and microdissected pancreatic ductal adenocarcinoma identifies genes specifically overexpressed in tumor epithelia. Hepatogastroenterology 2008 Nov-Dec;55(88):2016-27. PMID: 19260470
 Idichi T, Seki N, Kurahara H, Yonemori K et al. Regulation of actin-binding protein ANLN by antitumor miR-217 inhibits cancer cell aggressiveness in pancreatic ductal adenocarcinoma. Oncotarget 2017 Aug 8;8(32):53180-53193. PMID: 28881803
+
+## Visualizations
+
+### Quality Control
+![PCA Analysis](figures/QC_PCA_no_outlier.png)
+
+### Candidate Gene Analysis
+![Candidate Gene Analysis](figures/candidate_genes_paired.png)
+
+### GO Enrichment
+![Upregulated Genes](figures/GO_dotplot_up.png)
+
+![Downregulated Genes](figures/GO_dotplot_down.png)
+
+### Gene Expression Heatmap
+![Top 50 Genes](figures/heatmap_top50.png)
