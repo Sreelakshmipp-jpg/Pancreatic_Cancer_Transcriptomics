@@ -115,3 +115,22 @@ Idichi T, Seki N, Kurahara H, Yonemori K et al. Regulation of actin-binding prot
 ## Project Workflow
 
 [View the complete analysis workflow](docs/workflow.md)
+
+## Key Findings
+
+- Identified differentially expressed genes between pancreatic tumour and normal tissue samples.
+- Observed changes in genes associated with extracellular matrix organization, cell adhesion, and wound healing.
+- Investigated candidate genes including COL10A1, FN1, VCAN, COL11A1, AHNAK2, CDH3, and CEACAM6.
+- Performed Gene Ontology enrichment analysis to explore biological processes associated with the differentially expressed genes.
+- Generated PCA plots, volcano plots, heatmaps, and enrichment visualizations.
+
+## Tools and Technologies
+
+- R and RStudio
+- Bioconductor
+- GEOquery
+- limma
+- clusterProfiler
+- ggplot2
+- AnnotationDbi
+- GitHub
